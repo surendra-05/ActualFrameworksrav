@@ -3,8 +3,9 @@ package contactTest;
 public class ToCreateContactTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+		System.out.println("create a contact");
+		System.out.println("created a by surendra");
 	}
 
 }
